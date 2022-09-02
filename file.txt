@@ -3,3 +3,5 @@ message
 second branch
 
 non fastforward branch
+
+Conflict solving
